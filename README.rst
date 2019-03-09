@@ -1,4 +1,3 @@
-Tahoma API
---------
-Connection to Tahoma REST API
-
+Somfy Connexoon API
+-------------------
+Connection to Somfy Conexxoon REST API
